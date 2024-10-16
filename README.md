@@ -39,7 +39,8 @@ Top Campaigns: “Limited Edition,” “Exclusive Offers,” and “Must-Haves�
 
 Flash Sale campaigns have the highest cost per conversion ($13.19), indicating potential inefficiencies.
 
-Recommendations
+# Recommendations
+
 **Focus on High-Performing Platforms**: Instagram and Facebook deliver high CTR and conversions. Allocate more budget toward these platforms for campaigns with proven success (e.g., Limited Edition, Exclusive Offers).
 
 **Optimize Campaigns with High Costs**: Campaigns like Flash Sales have a higher cost per conversion. Focus on optimizing targeting and ad placements to reduce costs and improve conversion rates.
