@@ -52,3 +52,6 @@ Flash Sale campaigns have the highest cost per conversion ($13.19), indicating p
 **Monitor Conversion Rates**: The overall conversion rate has slightly declined (-2%), so it's essential to continuously monitor landing page performance and ad relevance to improve this metric across platforms.
 ![image](https://github.com/user-attachments/assets/ae840bd1-2377-4448-bcf2-c4c533ac3ba8)
 
+![image](https://github.com/user-attachments/assets/7eff2462-0d1b-4863-8c05-ef58a1ee6485)
+
+
