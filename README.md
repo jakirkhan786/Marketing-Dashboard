@@ -50,6 +50,5 @@ Flash Sale campaigns have the highest cost per conversion ($13.19), indicating p
 **Address Declines in February**: Revenue drops significantly in February. Investigate campaign timing, audience behavior, and potential seasonal effects to develop strategies for mitigating this dip in performance.
 
 **Monitor Conversion Rates**: The overall conversion rate has slightly declined (-2%), so it's essential to continuously monitor landing page performance and ad relevance to improve this metric across platforms.
+![image](https://github.com/user-attachments/assets/ae840bd1-2377-4448-bcf2-c4c533ac3ba8)
 
-
-🔗 Explore the Power BI app:
